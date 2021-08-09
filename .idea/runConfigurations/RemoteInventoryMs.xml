@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RemoteInventoryMs" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="16" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="org.springframework.boot.devtools.RemoteSpringApplication" />
+    <module name="InventoryMs" />
+    <option name="PROGRAM_PARAMETERS" value="http://localhost:8081" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
